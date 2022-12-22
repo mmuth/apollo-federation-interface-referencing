@@ -9,8 +9,8 @@
     "start-rights-service": "nodemon rights-service/server.js"
   },
   "dependencies": {
-    "@apollo/gateway": "^0.17.0",
-    "apollo-server": "^2.15.1",
-    "nodemon": "^2.0.4"
+    "@apollo/gateway": "^0.29.0",
+    "apollo-server": "^3.0.0",
+    "nodemon": "^2.0.17"
   }
 }
